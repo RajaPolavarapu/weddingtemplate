@@ -9,7 +9,7 @@ function BGVideo() {
       <video src={Video} type="video/mp4" autoPlay loop muted className='video' />
       <div className='rsvp-container'>
       <button className='rsvp'>
-        Mobile: <a href='tel:+919441841403' className='tel'>+919441841403</a>
+        <a href='tel:+919441841403' className='tel'>Mobile: +919441841403</a>
       </button>
       </div>
       <div className="grid-container">
