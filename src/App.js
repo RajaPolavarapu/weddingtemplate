@@ -17,7 +17,7 @@ function BGVideo() {
           <Button title={"Marriage Venue Directions"} type="marriage" />
         </div>
         <div className="grid-item">
-         <Button title="Reception Venue Directions" />
+         <Button title="Reception Venue Directions" type="reception" />
           </div>
       </div>
     </div>
