@@ -7,7 +7,7 @@ function BGVideo() {
   //Updated Index File with new image 
   return (
     <div className="video-container">
-      <video src={Video} type="video/mp4" autoPlay muted className='video' />
+      <video src={Video} type="video/mp4" autoPlay className='video' />
       <div className='rsvp-container'>
       <button className='rsvp'>
         <a href='tel:+919441841403' className='tel'>Mobile: +919441841403</a>
