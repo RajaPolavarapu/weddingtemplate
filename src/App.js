@@ -7,7 +7,7 @@ function BGVideo() {
   //Updated Index File with new image 
   return (
     <div className="video-container">
-      <video autoPlay muted playsinline className='video'>
+      <video autoPlay={true} muted playsInline className='video'>
         <source src={Video} type="video/mp4" />
       </video>
       <div className='rsvp-container'>
